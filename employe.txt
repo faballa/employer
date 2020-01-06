@@ -1,0 +1,5 @@
+EM-00005;fatou;jhgvhjjh;17/09/1996;250000;783119445;dama@gmail.com
+EM-00005;fatou;jhgvhjjh;17/09/1996;250000;783119445;dama@gmail.com
+EM-00006;Mrieme;Diop;17/09/1997;300000;776529125;maremdiop@gmail.com
+EM-00007;hj;bn;17/09/1996;400000;775665228;wadjfatouballa@gmail.com
+EM-00007;dfryg;rtyui;17/09/1996;400000;775658828;wadjfatouballa@gmail.com
